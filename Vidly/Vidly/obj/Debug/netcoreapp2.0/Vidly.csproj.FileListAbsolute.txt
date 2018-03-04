@@ -1,0 +1,11 @@
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\bin\Debug\netcoreapp2.0\Vidly.deps.json
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\bin\Debug\netcoreapp2.0\Vidly.runtimeconfig.json
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\bin\Debug\netcoreapp2.0\Vidly.runtimeconfig.dev.json
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\bin\Debug\netcoreapp2.0\Vidly.dll
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\bin\Debug\netcoreapp2.0\Vidly.pdb
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\obj\Debug\netcoreapp2.0\Vidly.csprojResolveAssemblyReference.cache
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\obj\Debug\netcoreapp2.0\Vidly.csproj.CoreCompileInputs.cache
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\obj\Debug\netcoreapp2.0\Vidly.AssemblyInfoInputs.cache
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\obj\Debug\netcoreapp2.0\Vidly.AssemblyInfo.cs
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\obj\Debug\netcoreapp2.0\Vidly.dll
+c:\users\dylan.jackson\source\repos\Vidly\Vidly\obj\Debug\netcoreapp2.0\Vidly.pdb
