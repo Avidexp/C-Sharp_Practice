@@ -1,0 +1,11 @@
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\bin\Debug\netcoreapp2.0\PrivateDataMembers.deps.json
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\bin\Debug\netcoreapp2.0\PrivateDataMembers.runtimeconfig.json
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\bin\Debug\netcoreapp2.0\PrivateDataMembers.runtimeconfig.dev.json
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\bin\Debug\netcoreapp2.0\PrivateDataMembers.dll
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\bin\Debug\netcoreapp2.0\PrivateDataMembers.pdb
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\obj\Debug\netcoreapp2.0\PrivateDataMembers.csprojResolveAssemblyReference.cache
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\obj\Debug\netcoreapp2.0\PrivateDataMembers.csproj.CoreCompileInputs.cache
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\obj\Debug\netcoreapp2.0\PrivateDataMembers.AssemblyInfoInputs.cache
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\obj\Debug\netcoreapp2.0\PrivateDataMembers.AssemblyInfo.cs
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\obj\Debug\netcoreapp2.0\PrivateDataMembers.dll
+C:\Users\dylan.jackson\source\repos\PrivateDataMembers\PrivateDataMembers\obj\Debug\netcoreapp2.0\PrivateDataMembers.pdb
