@@ -1,0 +1,6 @@
+c:\users\dylan.jackson\source\repos\FormLetter\FormLetter\bin\Debug\FormLetter.exe.config
+c:\users\dylan.jackson\source\repos\FormLetter\FormLetter\bin\Debug\FormLetter.exe
+c:\users\dylan.jackson\source\repos\FormLetter\FormLetter\bin\Debug\FormLetter.pdb
+c:\users\dylan.jackson\source\repos\FormLetter\FormLetter\obj\Debug\FormLetter.csproj.CoreCompileInputs.cache
+c:\users\dylan.jackson\source\repos\FormLetter\FormLetter\obj\Debug\FormLetter.exe
+c:\users\dylan.jackson\source\repos\FormLetter\FormLetter\obj\Debug\FormLetter.pdb

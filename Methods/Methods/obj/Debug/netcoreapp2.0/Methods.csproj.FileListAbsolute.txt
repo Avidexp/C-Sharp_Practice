@@ -1,0 +1,11 @@
+C:\Users\dylan.jackson\source\repos\Methods\Methods\bin\Debug\netcoreapp2.0\Methods.deps.json
+C:\Users\dylan.jackson\source\repos\Methods\Methods\bin\Debug\netcoreapp2.0\Methods.runtimeconfig.json
+C:\Users\dylan.jackson\source\repos\Methods\Methods\bin\Debug\netcoreapp2.0\Methods.runtimeconfig.dev.json
+C:\Users\dylan.jackson\source\repos\Methods\Methods\bin\Debug\netcoreapp2.0\Methods.dll
+C:\Users\dylan.jackson\source\repos\Methods\Methods\bin\Debug\netcoreapp2.0\Methods.pdb
+C:\Users\dylan.jackson\source\repos\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.csprojResolveAssemblyReference.cache
+C:\Users\dylan.jackson\source\repos\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\dylan.jackson\source\repos\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.AssemblyInfoInputs.cache
+C:\Users\dylan.jackson\source\repos\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.AssemblyInfo.cs
+C:\Users\dylan.jackson\source\repos\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.dll
+C:\Users\dylan.jackson\source\repos\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.pdb

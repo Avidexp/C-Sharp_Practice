@@ -1,0 +1,6 @@
+c:\users\dylan.jackson\source\repos\RelationalOperators\RelationalOperators\bin\Debug\RelationalOperators.exe.config
+c:\users\dylan.jackson\source\repos\RelationalOperators\RelationalOperators\bin\Debug\RelationalOperators.exe
+c:\users\dylan.jackson\source\repos\RelationalOperators\RelationalOperators\bin\Debug\RelationalOperators.pdb
+c:\users\dylan.jackson\source\repos\RelationalOperators\RelationalOperators\obj\Debug\RelationalOperators.csproj.CoreCompileInputs.cache
+c:\users\dylan.jackson\source\repos\RelationalOperators\RelationalOperators\obj\Debug\RelationalOperators.exe
+c:\users\dylan.jackson\source\repos\RelationalOperators\RelationalOperators\obj\Debug\RelationalOperators.pdb

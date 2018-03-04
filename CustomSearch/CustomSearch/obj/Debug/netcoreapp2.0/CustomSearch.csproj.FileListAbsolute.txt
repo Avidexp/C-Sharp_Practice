@@ -1,0 +1,11 @@
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\bin\Debug\netcoreapp2.0\CustomSearch.deps.json
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\bin\Debug\netcoreapp2.0\CustomSearch.runtimeconfig.json
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\bin\Debug\netcoreapp2.0\CustomSearch.runtimeconfig.dev.json
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\bin\Debug\netcoreapp2.0\CustomSearch.dll
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\bin\Debug\netcoreapp2.0\CustomSearch.pdb
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\obj\Debug\netcoreapp2.0\CustomSearch.csprojResolveAssemblyReference.cache
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\obj\Debug\netcoreapp2.0\CustomSearch.csproj.CoreCompileInputs.cache
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\obj\Debug\netcoreapp2.0\CustomSearch.AssemblyInfoInputs.cache
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\obj\Debug\netcoreapp2.0\CustomSearch.AssemblyInfo.cs
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\obj\Debug\netcoreapp2.0\CustomSearch.dll
+C:\Users\dylan.jackson\source\repos\CustomSearch\CustomSearch\obj\Debug\netcoreapp2.0\CustomSearch.pdb

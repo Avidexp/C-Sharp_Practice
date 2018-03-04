@@ -1,0 +1,7 @@
+c:\users\dylan.jackson\source\repos\Convert\Convert\obj\Debug\Convert.csprojResolveAssemblyReference.cache
+c:\users\dylan.jackson\source\repos\Convert\Convert\obj\Debug\Convert.csproj.CoreCompileInputs.cache
+c:\users\dylan.jackson\source\repos\Convert\Convert\bin\Debug\Convert.exe.config
+c:\users\dylan.jackson\source\repos\Convert\Convert\bin\Debug\Convert.exe
+c:\users\dylan.jackson\source\repos\Convert\Convert\bin\Debug\Convert.pdb
+c:\users\dylan.jackson\source\repos\Convert\Convert\obj\Debug\Convert.exe
+c:\users\dylan.jackson\source\repos\Convert\Convert\obj\Debug\Convert.pdb

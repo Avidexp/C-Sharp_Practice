@@ -1,0 +1,11 @@
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\bin\Debug\netcoreapp2.0\Lists_Continued.deps.json
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\bin\Debug\netcoreapp2.0\Lists_Continued.runtimeconfig.json
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\bin\Debug\netcoreapp2.0\Lists_Continued.runtimeconfig.dev.json
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\bin\Debug\netcoreapp2.0\Lists_Continued.dll
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\bin\Debug\netcoreapp2.0\Lists_Continued.pdb
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\obj\Debug\netcoreapp2.0\Lists_Continued.csprojResolveAssemblyReference.cache
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\obj\Debug\netcoreapp2.0\Lists_Continued.csproj.CoreCompileInputs.cache
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\obj\Debug\netcoreapp2.0\Lists_Continued.AssemblyInfoInputs.cache
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\obj\Debug\netcoreapp2.0\Lists_Continued.AssemblyInfo.cs
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\obj\Debug\netcoreapp2.0\Lists_Continued.dll
+C:\Users\dylan.jackson\source\repos\Lists_Continued\Lists_Continued\obj\Debug\netcoreapp2.0\Lists_Continued.pdb

@@ -1,0 +1,7 @@
+c:\users\dylan.jackson\source\repos\Input_Output\Input_Output\bin\Debug\Input_Output.exe.config
+c:\users\dylan.jackson\source\repos\Input_Output\Input_Output\bin\Debug\Input_Output.exe
+c:\users\dylan.jackson\source\repos\Input_Output\Input_Output\bin\Debug\Input_Output.pdb
+c:\users\dylan.jackson\source\repos\Input_Output\Input_Output\obj\Debug\Input_Output.csproj.CoreCompileInputs.cache
+c:\users\dylan.jackson\source\repos\Input_Output\Input_Output\obj\Debug\Input_Output.exe
+c:\users\dylan.jackson\source\repos\Input_Output\Input_Output\obj\Debug\Input_Output.pdb
+c:\users\dylan.jackson\source\repos\Input_Output\Input_Output\obj\Debug\Input_Output.csprojResolveAssemblyReference.cache
