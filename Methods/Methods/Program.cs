@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace Methods
 {
@@ -6,53 +7,53 @@ namespace Methods
     {
         static void Main(string[] args)
         {
+        }
 
-            //calling method 
-            char state = 'y';
-
-            while (state == 'y')
+        static void UseOutModifier()
+        {
+            try
             {
-                Console.WriteLine("What is the number? ");
-                double num = Convert.ToDouble(Console.ReadLine());
-
-                Console.Write(num + " squared is: " + square(num));
-
-                Console.WriteLine();
-                Console.Write("Continue (y/n)?");
-                state = Convert.ToChar(Console.ReadLine());
-
-                Console.Write("Enter a Fahrenheit temperature: ");
-                double temp = Convert.ToDouble(Console.ReadLine());
-
-                Console.Write(temp + "F, equals ");
-                Console.WriteLine(ftoc(temp) + "C.");
-
-                Console.ReadKey();
+                var num = int.Parse("abc");
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Conversion failed.");
             }
 
 
+            int number;
+            var result = int.TryParse("abc", out number);
+            if (result)
+                Console.WriteLine(number);
+            else
+                Console.WriteLine("Conversion failed.");
 
         }
 
-        // methods - outside of main. Static means it exists by itself, not part of larger class
-        //static {return type} {name of method} (parameters)
-
-        static double square(double number)
+        static void UseParams()
         {
-            return number * number;
+            var calculator = new Calculator();
+            Console.WriteLine(calculator.Add(1, 2));
+            Console.WriteLine(calculator.Add(1, 2, 3));
+            Console.WriteLine(calculator.Add(1, 2, 3, 4));
+            Console.WriteLine(calculator.Add(new int[] { 1, 2, 3, 4, 5 }));
         }
 
-        //Defining a method 
-
-        static double ftoc(double temp)
+        static void UsePoints()
         {
-            return (temp - 32.0) * (5.0 / 9.0);
-        }
+            try
+            {
+                var point = new Point(10, 20);
+                point.Move(null);
+                Console.WriteLine("Point is at ({0}, {1})", point.X, point.Y);
 
-        static double ctof(double temp)
-        {
-            return (temp * 9 / 5) + 32.0;
+                point.Move(100, 200);
+                Console.WriteLine("Point is at ({0}, {1})", point.X, point.Y);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("An unexpected error occured.");
+            }
         }
-        
     }
 }
